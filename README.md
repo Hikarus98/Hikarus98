@@ -6,10 +6,10 @@ I'm a student and technology enthusiast exploring practical AI, automation, and 
 
 ## 🚀 What I'm Building
 
-- **[SAI — Local AI Voice Assistant](https://github.com/Hikarus98/shiny-pancake)** *(in progress)*  
+- **[ARIA — Local AI Voice Assistant](https://github.com/Hikarus98/shiny-pancake)** *(in progress)*  
   A Telugu + English voice assistant using Python, Ollama, and Faster-Whisper. Working toward speech recognition, intent handling, and desktop automation.
 
-- **SAI OS** *(concept / early development)*  
+- **ORI — AI Operating System** *(concept / early development)*  
   Exploring a hybrid AI desktop experience with voice interaction and a futuristic interface.
 
 - **Telugu Film Editing Automation** *(in progress)*  
