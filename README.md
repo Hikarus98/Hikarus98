@@ -40,6 +40,15 @@ I'm a student and technology enthusiast exploring practical AI, automation, and 
 - English — Fluent
 - Hindi — Good
 
+## 🎯 Open to Opportunities
+
+I'm actively exploring freelance and task-based opportunities in:
+
+- Telugu AI data annotation and evaluation
+- AI response rating and fact-checking
+- Telugu-English language evaluation
+- Text, audio, and image labeling
+
 ## 🎯 Interests
 
 AI data annotation • AI training • AI response evaluation • Telugu language evaluation • Python automation • Local AI
